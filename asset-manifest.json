@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/margaretkulinich/react-redux-post.git/static/css/main.1b27aa34.chunk.css",
+    "main.js": "/margaretkulinich/react-redux-post.git/static/js/main.cbc7b43f.chunk.js",
+    "main.js.map": "/margaretkulinich/react-redux-post.git/static/js/main.cbc7b43f.chunk.js.map",
+    "runtime-main.js": "/margaretkulinich/react-redux-post.git/static/js/runtime-main.74314e46.js",
+    "runtime-main.js.map": "/margaretkulinich/react-redux-post.git/static/js/runtime-main.74314e46.js.map",
+    "static/js/2.43cbc332.chunk.js": "/margaretkulinich/react-redux-post.git/static/js/2.43cbc332.chunk.js",
+    "static/js/2.43cbc332.chunk.js.map": "/margaretkulinich/react-redux-post.git/static/js/2.43cbc332.chunk.js.map",
+    "static/js/3.8f0e5620.chunk.js": "/margaretkulinich/react-redux-post.git/static/js/3.8f0e5620.chunk.js",
+    "static/js/3.8f0e5620.chunk.js.map": "/margaretkulinich/react-redux-post.git/static/js/3.8f0e5620.chunk.js.map",
+    "index.html": "/margaretkulinich/react-redux-post.git/index.html",
+    "static/css/main.1b27aa34.chunk.css.map": "/margaretkulinich/react-redux-post.git/static/css/main.1b27aa34.chunk.css.map",
+    "static/js/2.43cbc332.chunk.js.LICENSE.txt": "/margaretkulinich/react-redux-post.git/static/js/2.43cbc332.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74314e46.js",
+    "static/js/2.43cbc332.chunk.js",
+    "static/css/main.1b27aa34.chunk.css",
+    "static/js/main.cbc7b43f.chunk.js"
+  ]
+}
