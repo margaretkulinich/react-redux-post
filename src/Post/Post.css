@@ -1,0 +1,11 @@
+.post {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 70%;
+    position: relative;
+    padding: 15px 15px 10px 95px;
+    margin: 10px 0 0 10px;
+    border: 2px solid #404040;
+    border-radius: 10px;
+}

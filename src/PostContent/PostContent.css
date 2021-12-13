@@ -1,0 +1,16 @@
+.post-content {
+    padding-top: 5px;
+}
+
+.post-content-text {
+    margin: 5px;
+    font-size: 17px;
+    font-family: 'Helvetica';
+}
+
+.post-content > img {
+    width: 100%;
+    border-radius: 25px;
+    cursor: pointer;
+    padding: 10px 0;
+}
